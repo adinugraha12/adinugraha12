@@ -36,15 +36,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-2C7BB6?style=for-the-badge)
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adinugraha12&show_icons=true&theme=dark" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinugraha12&layout=compact&theme=dark" alt="Bahasa Teratas" />
-</p>
-
 ## 📫 Kontak
 - 📧 Email: adinugrahasripangestu@gmail.com
-- 📸 Instagram: [@usernamekamu](https://instagram.com/adinugraha.aa)
+- 📸 Instagram: [@adinugraha.aa](https://instagram.com/adinugraha.aa)
 
 ---
 <p align="center">⭐ Terima kasih sudah berkunjung!</p>
