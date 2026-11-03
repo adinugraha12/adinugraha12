@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-- 💻 Mengembangkan aplikasi web (Laravel, CodeIgniter, Next.js, React) dan mobile (Flutter)
+- 💻 Mengembangkan aplikasi web (Laravel, CodeIgniter, Next.js, React) dan mobile (Flutter,Java)
 - 📊 Suka membuat dashboard dan sistem pelaporan
 - 🌱 Terus belajar teknologi baru
 
